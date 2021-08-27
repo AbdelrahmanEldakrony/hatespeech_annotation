@@ -58,7 +58,7 @@ img_path = './img/'
 
 # ----- Annotation -----
 if selected_option == option2: 
-    st.markdown("<h1 style='text-align: center;'>Hello! Please label some of the memes below.</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>Hello! Pleasee label some of the memes below.</h1>", unsafe_allow_html=True)
 
     results = []
 
